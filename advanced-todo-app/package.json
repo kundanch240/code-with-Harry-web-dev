@@ -1,0 +1,21 @@
+{
+  "name": "advanced-todo-app",
+  "version": "1.0.0",
+  "description": "A comprehensive to-do list application with advanced features including categories, priorities, due dates, search, filters, and data export/import",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "dev": "python3 -m http.server 8000"
+  },
+  "keywords": [
+    "todo",
+    "task-manager",
+    "productivity",
+    "javascript",
+    "web-app"
+  ],
+  "author": "Advanced Todo App",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {}
+}
